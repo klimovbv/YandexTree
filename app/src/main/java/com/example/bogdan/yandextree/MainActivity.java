@@ -49,8 +49,8 @@ public class MainActivity extends Activity {
     private ExpandableListView expListView;
     private List<String> listDataHeader;
     private HashMap<String, List<String>> listDataChild;
-    List<String> headList;
-    HashMap<String, List<String>> childList;
+    private List<String> headList;
+    private HashMap<String, List<String>> childList;
 
 
     @Override
