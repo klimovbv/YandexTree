@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">YandexTree</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="refresh_button_name">Refresh list</string>
+</resources>
